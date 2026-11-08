@@ -1,0 +1,2 @@
+Je déclare que le code source de ce projet a été réalisé sans utiliser d'outil d'intelligence artificielle générative pour générer le code.
+L'implémentation et la logique de programmation ont été réalisées manuellement.
